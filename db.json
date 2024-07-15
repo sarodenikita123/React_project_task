@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "roll": "101",
+      "name": "nikita",
+      "marks": "90",
+      "id": 1
+    },
+    {
+      "roll": "102",
+      "name": "shardha japtap",
+      "marks": "88",
+      "id": 2
+    },
+    {
+      "roll": "103",
+      "name": "rani sarode",
+      "marks": "87",
+      "id": 3
+    }
+  ]
+}
